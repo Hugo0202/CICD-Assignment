@@ -3,4 +3,4 @@
 echo "Running tests for the sample project..."
 
 # Run tests using pytest
-python3 -m tests/
+python3 -m pytest tests/
